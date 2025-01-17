@@ -112,6 +112,3 @@ ESP8266_Games_Webserver/
 ## Credits
 Developed using the ESP8266 platform and open-source libraries. Games implemented using HTML, CSS, and JavaScript.
 
-
-This markdown file provides clear instructions and information for setting up the ESP8266 games web server.
-```
